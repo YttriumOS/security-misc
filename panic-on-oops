@@ -1,0 +1,5 @@
+#!/bin/sh
+
+if [ -x /usr/lib/security-misc/panic-on-oops ]; then
+   sudo --non-interactive /usr/lib/security-misc/panic-on-oops
+fi
