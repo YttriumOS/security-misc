@@ -1,1 +1,1 @@
-# security-misc
+**numerous miscellaneous security improvements (currently testing)**
